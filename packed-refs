@@ -1,0 +1,5 @@
+# pack-refs with: peeled fully-peeled sorted 
+181bc43a529463c22f656208d71714bd4a39933f refs/remotes/origin/branch-dev-vicente
+069687b136bd6bdc3f2b70d2de5b9fb67bdd9d2e refs/remotes/origin/branch-testavel
+67dfeaba5cfcb993f1cbb68d7e104ba947eec904 refs/remotes/origin/dev
+4b21e3570f7770d0bbb6d477efa9c0408bc6e8f9 refs/remotes/origin/main
